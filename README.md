@@ -5,7 +5,7 @@ To encrypt and decrypt the given message by using Ceaser Cipher encryption algor
 
 ## Procedure 
 Step 1: 
-Design of Caeser Cipher algorithnm 
+Design of Caeser Cipher algorithnm
 Step 2: 
 Implementation using C or pyhton code 
 Step 3: 
